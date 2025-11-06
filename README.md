@@ -27,3 +27,6 @@
 	- Added an edit button that opens a dialog for changing the name and tags of the selected chat.
 
 * Added values in translation.json (in he-IL) so it will also be in hebrew when hebrew is selected.
+
+
+### Check out "Open WebUI changes preview.mp4" in the folder "A VIDEO"
